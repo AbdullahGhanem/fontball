@@ -1,0 +1,257 @@
+@font-face {
+  font-family: 'football';
+  src:  url('fonts/football.eot?au9pa0');
+  src:  url('fonts/football.eot?au9pa0#iefix') format('embedded-opentype'),
+    url('fonts/football.ttf?au9pa0') format('truetype'),
+    url('fonts/football.woff?au9pa0') format('woff'),
+    url('fonts/football.svg?au9pa0#football') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="football-"], [class*=" football-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'football' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.football-ball-goal:before {
+  content: "\e900";
+}
+.football-tshirt-10:before {
+  content: "\e901";
+}
+.football-cards:before {
+  content: "\e902";
+}
+.football-change:before {
+  content: "\e903";
+}
+.football-commentator:before {
+  content: "\e904";
+}
+.football-competition-1:before {
+  content: "\e905";
+}
+.football-competition:before {
+  content: "\e906";
+}
+.football-couple-of-football-cones:before {
+  content: "\e907";
+}
+.football-award:before {
+  content: "\e908";
+}
+.football-chalice-shaped-trophy:before {
+  content: "\e909";
+}
+.football-coach:before {
+  content: "\e90a";
+}
+.football-midair:before {
+  content: "\e90b";
+}
+.football-soccer-board:before {
+  content: "\e90c";
+}
+.football-player-blocking:before {
+  content: "\e90d";
+}
+.football-player-inclined:before {
+  content: "\e90e";
+}
+.football-football-player-kicking-ball-(1):before {
+  content: "\e90f";
+}
+.football-player-kicking:before {
+  content: "\e910";
+}
+.football-football-player-landing-on-field-missing-the-ball:before {
+  content: "\e911";
+}
+.football-player-posture:before {
+  content: "\e912";
+}
+.football-player-running:before {
+  content: "\e913";
+}
+.football-player-stretching:before {
+  content: "\e914";
+}
+.football-player-head:before {
+  content: "\e915";
+}
+.football-player-injury:before {
+  content: "\e916";
+}
+.football-player-hands:before {
+  content: "\e917";
+}
+.football-player-ball:before {
+  content: "\e918";
+}
+.football-referee-card:before {
+  content: "\e919";
+}
+.football-football-socks-with-white-lines-design:before {
+  content: "\e91a";
+}
+.football-gloves:before {
+  content: "\e91b";
+}
+.football-game-tv:before {
+  content: "\e91c";
+}
+.football-goal-ball-2:before {
+  content: "\e91d";
+}
+.football-goal:before {
+  content: "\e91e";
+}
+.football-goalkeeper:before {
+  content: "\e91f";
+}
+.football-inflatable-cheerer:before {
+  content: "\e920";
+}
+.football-list:before {
+  content: "\e921";
+}
+.football-penalty-1:before {
+  content: "\e922";
+}
+.football-penalty:before {
+  content: "\e923";
+}
+.football-player-1:before {
+  content: "\e924";
+}
+.football-player-attempting-to-kick-ball:before {
+  content: "\e925";
+}
+.football-player-ban:before {
+  content: "\e926";
+}
+.football-player-kicking-ball:before {
+  content: "\e927";
+}
+.football-player-pluse:before {
+  content: "\e928";
+}
+.football-player-remove:before {
+  content: "\e929";
+}
+.football-player-setting-ball:before {
+  content: "\e92a";
+}
+.football-player-with-number-10-jersey-and-check-mark:before {
+  content: "\e92b";
+}
+.football-player:before {
+  content: "\e92c";
+}
+.football-players-on-game:before {
+  content: "\e92d";
+}
+.football-red-card-2:before {
+  content: "\e92e";
+}
+.football-red-card:before {
+  content: "\e92f";
+}
+.football-referee-2:before {
+  content: "\e930";
+}
+.football-referee:before {
+  content: "\e931";
+}
+.football-running-sportive-shoe-for-soccer-players:before {
+  content: "\e932";
+}
+.football-soccer-ball:before {
+  content: "\e933";
+}
+.football-corner:before {
+  content: "\e934";
+}
+.football-soccer-goal:before {
+  content: "\e935";
+}
+.football-soccer-shoe:before {
+  content: "\e936";
+}
+.football-soccer-tactics-sketch:before {
+  content: "\e937";
+}
+.football-sports-t-shirt:before {
+  content: "\e938";
+}
+.football-stadium:before {
+  content: "\e939";
+}
+.football-strategy-1:before {
+  content: "\e93a";
+}
+.football-strategy:before {
+  content: "\e93b";
+}
+.football-t-shirt-of-soccer-player-front:before {
+  content: "\e93c";
+}
+.football-tactics:before {
+  content: "\e93d";
+}
+.football-tactics-1:before {
+  content: "\e93e";
+}
+.football-team-1:before {
+  content: "\e93f";
+}
+.football-team-bench:before {
+  content: "\e940";
+}
+.football-team:before {
+  content: "\e941";
+}
+.football-cup:before {
+  content: "\e942";
+}
+.football-tshirt:before {
+  content: "\e943";
+}
+.football-tshirt-1:before {
+  content: "\e944";
+}
+.football-two-black-sportive-flags:before {
+  content: "\e945";
+}
+.football-whistle-1:before {
+  content: "\e946";
+}
+.football-whistle-2:before {
+  content: "\e947";
+}
+.football-whistle:before {
+  content: "\e948";
+}
+.football-yard-1:before {
+  content: "\e949";
+}
+.football-yard:before {
+  content: "\e94a";
+}
+.football-yellow-card-1:before {
+  content: "\e94b";
+}
+.football-yellow-card:before {
+  content: "\e94c";
+}
